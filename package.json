@@ -1,0 +1,35 @@
+{
+  "name": "grunt-genwpstylecss",
+  "version": "0.0.1",
+  "description": "Generates WordPress theme style.css files from package.json.",
+  "homepage": "https://github.com/stefanfisk/grunt-genwpstylecss",
+  "repository": "git@github.com:stefanfisk/grunt-genwpstylecss.git",
+  "author": {
+    "name": "Stefan Fisk",
+    "email": "",
+    "url": "http://stefanfisk.com"
+  },
+  "keywords": [
+    "gruntplugin",
+    "wordpress"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "grunt": "~0.4.2",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "underscore.string": "~2.3.3"
+  }
+}
