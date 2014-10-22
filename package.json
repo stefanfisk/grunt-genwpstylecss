@@ -1,6 +1,6 @@
 {
   "name": "grunt-genwpstylecss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates WordPress theme style.css files from package.json.",
   "homepage": "https://github.com/stefanfisk/grunt-genwpstylecss",
   "repository": "git@github.com:stefanfisk/grunt-genwpstylecss.git",
